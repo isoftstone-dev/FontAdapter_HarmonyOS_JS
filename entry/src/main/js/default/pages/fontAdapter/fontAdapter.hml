@@ -1,0 +1,3 @@
+<div class="item">
+    <text class="{{classText}}" >{{title}}</text>
+</div>

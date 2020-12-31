@@ -1,0 +1,7 @@
+.myText{
+    font-family: sans-serif;
+    color: red;
+}
+.container{
+    flex-direction: column;
+}

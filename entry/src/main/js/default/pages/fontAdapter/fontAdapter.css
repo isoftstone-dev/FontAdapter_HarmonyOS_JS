@@ -1,0 +1,58 @@
+@media screen and (device-type: phone) {
+    .item {
+        width: 100%;
+    }
+    .head-style {
+        text-align: center;
+        width: 100%;
+        font-size: 30px;
+    }
+    .title-style {
+        font-weight: 600;
+        text-align: center;
+        width: 100%;
+        font-size: 70px;
+    }
+    .subtitle-style {
+        text-align: center;
+        width: 100%;
+        font-size: 50px;
+    }
+    .currentText-style {
+        font-size: 40px;
+    }
+    .footer-style {
+        text-align: center;
+        width: 100%;
+        font-size: 30px;
+    }
+}
+@media screen and (device-type: tv) {
+    .item {
+        width: 100%;
+    }
+    .head-style {
+        text-align: center;
+        width: 100%;
+        font-size: 15px;
+    }
+    .title-style {
+        font-weight: 600;
+        text-align: center;
+        width: 100%;
+        font-size: 40px;
+    }
+    .subtitle-style {
+        text-align: center;
+        width: 100%;
+        font-size: 30px;
+    }
+    .currentText-style {
+        font-size: 20px;
+    }
+    .footer-style {
+        text-align: center;
+        width: 100%;
+        font-size: 15px;
+    }
+}
